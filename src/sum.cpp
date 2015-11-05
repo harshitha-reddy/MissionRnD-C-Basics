@@ -11,7 +11,21 @@ ERROR CASES:
 NOTES:
 */
 
+#include<stdio.h>
+#include<conio.h>
+
+int sum(int a, int b);
+int main()
+{
+	int   c;
+	c = sum(7,9);
+	printf("the number is :%d",c);
+	getch();
+	
+	return 0;
+}
+
 int sum(int a, int b)
 {
-	return 0;
+	return (a+b);
 }
