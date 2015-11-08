@@ -15,7 +15,7 @@ NOTES:
 #include<conio.h>
 
 int sum(int a, int b);
-int main()
+/*int main()
 {
 	int   c;
 	c = sum(7,9);
@@ -23,7 +23,7 @@ int main()
 	getch();
 	
 	return 0;
-}
+}*/
 
 int sum(int a, int b)
 {
