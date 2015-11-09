@@ -1,4 +1,4 @@
-#include <stdarg.h>
+ #include <stdarg.h>
 
 /*
 OVERVIEW: 	A school has unknown number of students. Write a function that takes a variable number of arguments representing student marks in english

@@ -11,11 +11,11 @@ ERROR CASES:
 NOTES:
 */
 
-#include<stdio.h>
+/*#include<stdio.h>
 #include<conio.h>
 
 int sum(int a, int b);
-/*int main()
+int main()
 {
 	int   c;
 	c = sum(7,9);

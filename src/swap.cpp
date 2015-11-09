@@ -10,10 +10,10 @@ ERROR CASES:
 
 NOTES:
 */
-#include<stdio.h>
-#include<conio.h>
-void swap(int*, int*);
-int main()
+//#include<stdio.h>
+//#include<conio.h>
+//void swap(int*, int*);
+/*int main()
 {
 	int a, b;
 	printf("enter value for a and b: ");
@@ -23,11 +23,13 @@ int main()
 	getch();
 	return 0;
 	
-}
+}*/
 void swap(int *a, int *b)
 {
 	int temp;
 	temp = *a;
 	*a = *b;
 	*b = temp;
+	printf("values after swapping are %d %d", a, b);
+
 }
