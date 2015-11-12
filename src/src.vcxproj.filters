@@ -21,13 +21,13 @@
     <ClCompile Include="isOlder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="variableArguments.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="swap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variableArguments.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
